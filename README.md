@@ -20,6 +20,11 @@ A dark theme for [Zed](https://zed.dev) inspired by Hatsune Miku's iconic color 
 | Types / Constants | ![#b7f3db](https://img.shields.io/badge/-%23b7f3db-b7f3db?style=flat-square)|
 | Numbers / Booleans | ![#dba5c8](https://img.shields.io/badge/-%23dba5c8-dba5c8?style=flat-square)|
 | Functions | ![#009489](https://img.shields.io/badge/-%23009489-009489?style=flat-square)|
+| **Git Status** | |
+| New file | ![#b8ff89](https://img.shields.io/badge/-%23b8ff89-b8ff89?style=flat-square)|
+| Modified file | ![#74cde6](https://img.shields.io/badge/-%2374cde6-74cde6?style=flat-square)|
+| Deleted file | ![#ffa875](https://img.shields.io/badge/-%23ffa875-ffa875?style=flat-square)|
+| Error | ![#ff3f3f](https://img.shields.io/badge/-%23ff3f3f-ff3f3f?style=flat-square)|
 
 ## Installation
 
