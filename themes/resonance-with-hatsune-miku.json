@@ -238,12 +238,12 @@
             "font_weight": null
           },
           "function": {
-            "color": "#009489",
+            "color": "#00cabc",
             "font_style": null,
             "font_weight": null
           },
           "function.method": {
-            "color": "#009489",
+            "color": "#00cabc",
             "font_style": null,
             "font_weight": null
           },
@@ -388,7 +388,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#00bcaf",
+            "color": "#aefffa",
             "font_style": null,
             "font_weight": null
           },
