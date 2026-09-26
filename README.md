@@ -1,8 +1,16 @@
-# Resonance with Hatsune Miku
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/logo_dart.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/logo_light.svg">
+    <img alt="Resonance --with_Hatsune_Miku" src="./images/logo_light.svg" width="720">
+  </picture>
+</h1>
 
-A dark theme for [Zed](https://zed.dev) inspired by Hatsune Miku's iconic color palette — deep charcoal backgrounds with teal and cyan accents.
+A theme for [Zed](https://zed.dev) inspired by Hatsune Miku's iconic color palette — teal and cyan accents, with both dark and light variants.
 
-![Preview](images/preview.png)
+| Dark | Light |
+| --- | --- |
+| ![Dark preview](images/preview.png) | ![Light preview](images/preview_light.png) |
 
 ## Color Palette
 
@@ -52,10 +60,28 @@ ln -sf "$PWD/themes/resonance-with-hatsune-miku.json" \
        ~/.config/zed/themes/resonance-with-hatsune-miku.json
 ```
 
+## Light Variant
+
+A light variant, **Resonance with Hatsune Miku Light**, is included in the same extension.
+To switch automatically with your system appearance, set both themes in your Zed settings:
+
+```json
+{
+  "theme": {
+    "mode": "system",
+    "light": "Resonance with Hatsune Miku Light",
+    "dark": "Resonance with Hatsune Miku"
+  }
+}
+```
+
 ## Theme Attribute Reference
 
 See [THEME_REFERENCE.md](./THEME_REFERENCE.md) for a full mapping of color keys to Zed UI elements.
 
 ## License
 
-[MIT](./LICENSE)
+This theme is distributed under the [MIT License](./LICENSE).
+
+This work depicts the character "初音ミク" (Hatsune Miku) of Crypton Future Media, Inc. based on the [Piapro Character License](https://piapro.jp/license/pcl/summary).
+This is an unofficial fan work and is not affiliated with or endorsed by Crypton Future Media, Inc.
