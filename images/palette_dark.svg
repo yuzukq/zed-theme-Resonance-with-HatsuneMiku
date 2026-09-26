@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 660" width="380" height="660" role="img" aria-label="Resonance with Hatsune Miku color palette">
+<style>
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+.cursor { animation: blink 1s steps(1, end) infinite; }
+</style>
+<rect x="0.5" y="0.5" width="379" height="659" rx="10" fill="#191b1c" stroke="#373b3c"/>
+<path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H369.5 a10 10 0 0 1 10 10 V30 Z" fill="#212425"/>
+<line x1="0.5" y1="30" x2="379.5" y2="30" stroke="#373b3c"/>
+<circle cx="18" cy="15.0" r="5.5" fill="#ff3f3f"/>
+<circle cx="36" cy="15.0" r="5.5" fill="#cca700"/>
+<circle cx="54" cy="15.0" r="5.5" fill="#b8ff89"/>
+<text x="190.0" y="19.0" fill="#68737c" text-anchor="middle" font-size="12">fish — rwht</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5">
+<text x="22" y="60" xml:space="preserve"><tspan fill="#39c5bb" font-weight="700">❯ </tspan><tspan fill="#00c2b4">rwht </tspan><tspan fill="#6ddae7">--dark</tspan></text>
+<text x="22" y="88" xml:space="preserve"><tspan fill="#f92672" font-weight="700">&gt; </tspan><tspan fill="#39c5bb" font-weight="700">Resonance</tspan><tspan fill="#add6d7"> --with_Hatsune_Miku</tspan></text>
+<text x="22" y="108" xml:space="preserve"><tspan fill="#68737c">  dark · zed theme</tspan></text>
+<text x="22" y="138" xml:space="preserve"><tspan fill="#68737c" font-weight="700">surface</tspan></text>
+<rect x="22" y="146" width="30" height="16" fill="#191b1c"/>
+<rect x="52" y="146" width="30" height="16" fill="#212425"/>
+<rect x="82" y="146" width="30" height="16" fill="#252829"/>
+<rect x="112" y="146" width="30" height="16" fill="#2a2d2e"/>
+<rect x="142" y="146" width="30" height="16" fill="#373b3c"/>
+<rect x="22" y="146" width="150" height="16" fill="none" stroke="#282c2d" stroke-width="1"/>
+<rect x="22" y="167" width="18" height="13" rx="2" fill="#191b1c" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="178" fill="#add6d7">editor</text>
+<text x="152" y="178" fill="#68737c">#191b1c</text>
+<rect x="22" y="187" width="18" height="13" rx="2" fill="#252829" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="198" fill="#add6d7">panel</text>
+<text x="152" y="198" fill="#68737c">#252829</text>
+<rect x="22" y="207" width="18" height="13" rx="2" fill="#2a2d2e" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="218" fill="#add6d7">chrome</text>
+<text x="152" y="218" fill="#68737c">#2a2d2e</text>
+<text x="22" y="248" xml:space="preserve"><tspan fill="#68737c" font-weight="700">syntax</tspan></text>
+<rect x="22" y="257" width="18" height="13" rx="2" fill="#d2fefb" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="268" fill="#add6d7">variable</text>
+<text x="152" y="268" fill="#68737c">#d2fefb</text>
+<rect x="22" y="277" width="18" height="13" rx="2" fill="#f92672" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="288" fill="#add6d7">keyword</text>
+<text x="152" y="288" fill="#68737c">#f92672</text>
+<rect x="22" y="297" width="18" height="13" rx="2" fill="#00c2b4" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="308" fill="#add6d7">function</text>
+<text x="152" y="308" fill="#68737c">#00c2b4</text>
+<rect x="22" y="317" width="18" height="13" rx="2" fill="#6ddae7" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="328" fill="#add6d7">property</text>
+<text x="152" y="328" fill="#68737c">#6ddae7</text>
+<rect x="22" y="337" width="18" height="13" rx="2" fill="#4aa9e0" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="348" fill="#add6d7">constant</text>
+<text x="152" y="348" fill="#68737c">#4aa9e0</text>
+<rect x="22" y="357" width="18" height="13" rx="2" fill="#98e8c9" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="368" fill="#add6d7">type</text>
+<text x="152" y="368" fill="#68737c">#98e8c9</text>
+<rect x="22" y="377" width="18" height="13" rx="2" fill="#81e688" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="388" fill="#add6d7">string</text>
+<text x="152" y="388" fill="#68737c">#81e688</text>
+<rect x="22" y="397" width="18" height="13" rx="2" fill="#dba5c8" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="408" fill="#add6d7">number</text>
+<text x="152" y="408" fill="#68737c">#dba5c8</text>
+<rect x="22" y="417" width="18" height="13" rx="2" fill="#68737c" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="428" fill="#add6d7">comment</text>
+<text x="152" y="428" fill="#68737c">#68737c</text>
+<text x="22" y="458" xml:space="preserve"><tspan fill="#68737c" font-weight="700">git</tspan></text>
+<rect x="22" y="467" width="18" height="13" rx="2" fill="#b8ff89" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="478" fill="#add6d7">added</text>
+<text x="152" y="478" fill="#68737c">#b8ff89</text>
+<rect x="22" y="487" width="18" height="13" rx="2" fill="#74cde6" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="498" fill="#add6d7">modified</text>
+<text x="152" y="498" fill="#68737c">#74cde6</text>
+<rect x="22" y="507" width="18" height="13" rx="2" fill="#ffa875" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="518" fill="#add6d7">deleted</text>
+<text x="152" y="518" fill="#68737c">#ffa875</text>
+<rect x="22" y="527" width="18" height="13" rx="2" fill="#ff3f3f" stroke="#282c2d" stroke-width="1"/>
+<text x="52" y="538" fill="#add6d7">error</text>
+<text x="152" y="538" fill="#68737c">#ff3f3f</text>
+<text x="22" y="568" xml:space="preserve"><tspan fill="#68737c" font-weight="700">ansi</tspan></text>
+<rect x="22" y="576" width="30" height="16" fill="#000000"/>
+<rect x="52" y="576" width="30" height="16" fill="#cd3131"/>
+<rect x="82" y="576" width="30" height="16" fill="#0dbc79"/>
+<rect x="112" y="576" width="30" height="16" fill="#e5e510"/>
+<rect x="142" y="576" width="30" height="16" fill="#2472c8"/>
+<rect x="172" y="576" width="30" height="16" fill="#bc3fbc"/>
+<rect x="202" y="576" width="30" height="16" fill="#11a8cd"/>
+<rect x="232" y="576" width="30" height="16" fill="#e5e5e5"/>
+<rect x="22" y="576" width="240" height="16" fill="none" stroke="#282c2d" stroke-width="1"/>
+<rect x="22" y="596" width="30" height="16" fill="#666666"/>
+<rect x="52" y="596" width="30" height="16" fill="#f14c4c"/>
+<rect x="82" y="596" width="30" height="16" fill="#23d18b"/>
+<rect x="112" y="596" width="30" height="16" fill="#f5f543"/>
+<rect x="142" y="596" width="30" height="16" fill="#3b8eea"/>
+<rect x="172" y="596" width="30" height="16" fill="#d670d6"/>
+<rect x="202" y="596" width="30" height="16" fill="#29b8db"/>
+<rect x="232" y="596" width="30" height="16" fill="#ffffff"/>
+<rect x="22" y="596" width="240" height="16" fill="none" stroke="#282c2d" stroke-width="1"/>
+<text x="22" y="636" fill="#39c5bb" font-weight="700">❯</text>
+<rect class="cursor" x="38" y="624" width="8" height="16" fill="#39c5bb"/>
+</g>
+</svg>

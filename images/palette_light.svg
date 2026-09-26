@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 660" width="380" height="660" role="img" aria-label="Resonance with Hatsune Miku Light color palette">
+<style>
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+.cursor { animation: blink 1s steps(1, end) infinite; }
+</style>
+<rect x="0.5" y="0.5" width="379" height="659" rx="10" fill="#fafafa" stroke="#c9d2d2"/>
+<path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H369.5 a10 10 0 0 1 10 10 V30 Z" fill="#ebefef"/>
+<line x1="0.5" y1="30" x2="379.5" y2="30" stroke="#c9d2d2"/>
+<circle cx="18" cy="15.0" r="5.5" fill="#d92b2b"/>
+<circle cx="36" cy="15.0" r="5.5" fill="#a88600"/>
+<circle cx="54" cy="15.0" r="5.5" fill="#3f9a2e"/>
+<text x="190.0" y="19.0" fill="#7d8a93" text-anchor="middle" font-size="12">fish — rwht</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5">
+<text x="22" y="60" xml:space="preserve"><tspan fill="#22a79d" font-weight="700">❯ </tspan><tspan fill="#01736a">rwht </tspan><tspan fill="#00679b">--light</tspan></text>
+<text x="22" y="88" xml:space="preserve"><tspan fill="#c60355" font-weight="700">&gt; </tspan><tspan fill="#22a79d" font-weight="700">Resonance</tspan><tspan fill="#2b4a4c"> --with_Hatsune_Miku</tspan></text>
+<text x="22" y="108" xml:space="preserve"><tspan fill="#7d8a93">  light · zed theme</tspan></text>
+<text x="22" y="138" xml:space="preserve"><tspan fill="#7d8a93" font-weight="700">surface</tspan></text>
+<rect x="22" y="146" width="30" height="16" fill="#fafafa"/>
+<rect x="52" y="146" width="30" height="16" fill="#ebefef"/>
+<rect x="82" y="146" width="30" height="16" fill="#e4e9e9"/>
+<rect x="112" y="146" width="30" height="16" fill="#dde3e3"/>
+<rect x="142" y="146" width="30" height="16" fill="#c9d2d2"/>
+<rect x="22" y="146" width="150" height="16" fill="none" stroke="#dfe5e5" stroke-width="1"/>
+<rect x="22" y="167" width="18" height="13" rx="2" fill="#fafafa" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="178" fill="#2b4a4c">editor</text>
+<text x="152" y="178" fill="#7d8a93">#fafafa</text>
+<rect x="22" y="187" width="18" height="13" rx="2" fill="#e4e9e9" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="198" fill="#2b4a4c">panel</text>
+<text x="152" y="198" fill="#7d8a93">#e4e9e9</text>
+<rect x="22" y="207" width="18" height="13" rx="2" fill="#dde3e3" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="218" fill="#2b4a4c">chrome</text>
+<text x="152" y="218" fill="#7d8a93">#dde3e3</text>
+<text x="22" y="248" xml:space="preserve"><tspan fill="#7d8a93" font-weight="700">syntax</tspan></text>
+<rect x="22" y="257" width="18" height="13" rx="2" fill="#1e2f32" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="268" fill="#2b4a4c">variable</text>
+<text x="152" y="268" fill="#7d8a93">#1e2f32</text>
+<rect x="22" y="277" width="18" height="13" rx="2" fill="#c60355" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="288" fill="#2b4a4c">keyword</text>
+<text x="152" y="288" fill="#7d8a93">#c60355</text>
+<rect x="22" y="297" width="18" height="13" rx="2" fill="#01736a" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="308" fill="#2b4a4c">function</text>
+<text x="152" y="308" fill="#7d8a93">#01736a</text>
+<rect x="22" y="317" width="18" height="13" rx="2" fill="#00679b" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="328" fill="#2b4a4c">property</text>
+<text x="152" y="328" fill="#7d8a93">#00679b</text>
+<rect x="22" y="337" width="18" height="13" rx="2" fill="#6f42b2" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="348" fill="#2b4a4c">constant</text>
+<text x="152" y="348" fill="#7d8a93">#6f42b2</text>
+<rect x="22" y="357" width="18" height="13" rx="2" fill="#6f42b2" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="368" fill="#2b4a4c">type</text>
+<text x="152" y="368" fill="#7d8a93">#6f42b2</text>
+<rect x="22" y="377" width="18" height="13" rx="2" fill="#00791c" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="388" fill="#2b4a4c">string</text>
+<text x="152" y="388" fill="#7d8a93">#00791c</text>
+<rect x="22" y="397" width="18" height="13" rx="2" fill="#943c80" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="408" fill="#2b4a4c">number</text>
+<text x="152" y="408" fill="#7d8a93">#943c80</text>
+<rect x="22" y="417" width="18" height="13" rx="2" fill="#7d8a93" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="428" fill="#2b4a4c">comment</text>
+<text x="152" y="428" fill="#7d8a93">#7d8a93</text>
+<text x="22" y="458" xml:space="preserve"><tspan fill="#7d8a93" font-weight="700">git</tspan></text>
+<rect x="22" y="467" width="18" height="13" rx="2" fill="#3f9a2e" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="478" fill="#2b4a4c">added</text>
+<text x="152" y="478" fill="#7d8a93">#3f9a2e</text>
+<rect x="22" y="487" width="18" height="13" rx="2" fill="#1a86b0" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="498" fill="#2b4a4c">modified</text>
+<text x="152" y="498" fill="#7d8a93">#1a86b0</text>
+<rect x="22" y="507" width="18" height="13" rx="2" fill="#d0602a" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="518" fill="#2b4a4c">deleted</text>
+<text x="152" y="518" fill="#7d8a93">#d0602a</text>
+<rect x="22" y="527" width="18" height="13" rx="2" fill="#d92b2b" stroke="#dfe5e5" stroke-width="1"/>
+<text x="52" y="538" fill="#2b4a4c">error</text>
+<text x="152" y="538" fill="#7d8a93">#d92b2b</text>
+<text x="22" y="568" xml:space="preserve"><tspan fill="#7d8a93" font-weight="700">ansi</tspan></text>
+<rect x="22" y="576" width="30" height="16" fill="#000000"/>
+<rect x="52" y="576" width="30" height="16" fill="#cd3131"/>
+<rect x="82" y="576" width="30" height="16" fill="#00a35c"/>
+<rect x="112" y="576" width="30" height="16" fill="#949800"/>
+<rect x="142" y="576" width="30" height="16" fill="#0451a5"/>
+<rect x="172" y="576" width="30" height="16" fill="#bc05bc"/>
+<rect x="202" y="576" width="30" height="16" fill="#0598bc"/>
+<rect x="232" y="576" width="30" height="16" fill="#555555"/>
+<rect x="22" y="576" width="240" height="16" fill="none" stroke="#dfe5e5" stroke-width="1"/>
+<rect x="22" y="596" width="30" height="16" fill="#666666"/>
+<rect x="52" y="596" width="30" height="16" fill="#e02e2e"/>
+<rect x="82" y="596" width="30" height="16" fill="#14ce14"/>
+<rect x="112" y="596" width="30" height="16" fill="#b5ba00"/>
+<rect x="142" y="596" width="30" height="16" fill="#2472c8"/>
+<rect x="172" y="596" width="30" height="16" fill="#d670d6"/>
+<rect x="202" y="596" width="30" height="16" fill="#11a8cd"/>
+<rect x="232" y="596" width="30" height="16" fill="#a5a5a5"/>
+<rect x="22" y="596" width="240" height="16" fill="none" stroke="#dfe5e5" stroke-width="1"/>
+<text x="22" y="636" fill="#22a79d" font-weight="700">❯</text>
+<rect class="cursor" x="38" y="624" width="8" height="16" fill="#22a79d"/>
+</g>
+</svg>
