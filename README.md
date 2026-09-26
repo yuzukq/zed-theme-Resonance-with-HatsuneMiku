@@ -1,6 +1,6 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/logo_dart.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/logo_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./images/logo_light.svg">
     <img alt="Resonance --with_Hatsune_Miku" src="./images/logo_light.svg" width="100%">
   </picture>
@@ -11,9 +11,15 @@ Inspired by Hatsune Miku's color palette — her signature teal paired with vivi
 
 Beyond the colors themselves, every shade is tuned so the code you're reading stays in focus: syntax colors are arranged in three lightness tiers by importance, and the editor pane is set apart from the surrounding panels in even steps.
 
-| Dark | Light |
-| --- | --- |
-| ![Dark preview](images/preview_dark.png) | ![Light preview](images/preview_light.png) |
+## Preview
+
+### Dark
+
+![Dark preview](images/preview_dark.png)
+
+### Light
+
+![Light preview](images/preview_light.png)
 
 ## Color Palette
 
@@ -105,7 +111,6 @@ Clone this repository and try your changes in one of two ways:
   ```
 
 See [THEME_REFERENCE.md](./THEME_REFERENCE.md) for a mapping of color keys to Zed UI elements.
-After changing colors, regenerate the palette images with `python3 scripts/build-palette-svg.py`.
 
 ## License
 
