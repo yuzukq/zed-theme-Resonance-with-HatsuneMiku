@@ -78,9 +78,7 @@ You can also open [the extension page on zed.dev](https://zed.dev/extensions/res
 
 Then pick the theme with `cmd-k cmd-t`.
 
-> [!NOTE]
-> Version 1.0.0 (light variant and refreshed dark palette) is waiting for the extension store update.
-> Until it is published, the store serves the previous version, which includes the dark theme only.
+If you installed an earlier version, update it from the extensions page to get the light variant and the refreshed dark palette (version 1.0.0).
 
 ### Follow the System Appearance
 
